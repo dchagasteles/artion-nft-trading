@@ -1,7 +1,24 @@
-node_modules/
-cache/
-artifacts/
-publish/
-flatten/
+node_modules
+coverage
+coverage.json
+typechain
+typechain-types
 
+# Hardhat files
+cache
+artifacts
+
+# IDE
+.vscode
+
+node_modules
 .env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+

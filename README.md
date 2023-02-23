@@ -1,1 +1,1 @@
-# Smart contracts for Fantom Artion Marketplace
+# Smart contracts for Nifty NFT Marketplace
